@@ -1,0 +1,2 @@
+ ### [API7:2019 Security Misconfiguration](https://github.com/OWASP/API-Security/blob/master/2019/en/src/0xa7-security-misconfiguration.md "OWASP API Security Project"). Security misconfiguration includes missing system patches, unnecessary features enabled, lack of secure transit encryption, weak security headers, verbose error messages, and Cross-Origin Resource Sharing (CORS) policy misconfigurations.
+
